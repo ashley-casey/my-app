@@ -1,8 +1,8 @@
 .hovered {
-  color: green;
+  color: darkgray;
   text-decoration: underline;
 }
 
 .normal {
-  color: gray;
+  color: white;
 }
